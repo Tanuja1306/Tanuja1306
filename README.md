@@ -41,3 +41,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&v=2" alt="Tanuja Kumari" /></p>
 
+<h3 align="left">Top Languages:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuja1306&layout=compact&theme=dark" alt="Top Languages" /></p>
+
+<h3 align="left">Contribution Graph:</h3>
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tanuja1306&theme=react-dark" alt="Contribution Graph" /></p>
+
+<h3 align="left">Profile Views:</h3>
+<p>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=Tanuja1306" alt="Profile Views" /></p>
