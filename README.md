@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tanujakumaridtu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanuja Kumari" height="30" width="30" /></a>
-<a href="https://www.instagram.com/tanujasangwan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanuja_sangwan" height="30" width="30" /></a>
-<a href="https://github.com/Tanuja1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tanuja Kumari" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@tanujaSangwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tanuja Kumari" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/tanujakumaridtu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanuja Kumari" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tanujasangwan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanuja_sangwan" height="30" width="40" /></a>
+<a href="https://github.com/Tanuja1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tanuja Kumari" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tanujaSangwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tanuja Kumari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,11 +38,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanuja1306&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&hide_title=true&hide_border=true&theme=tokyonight&custom_title=Streak%20Stats" alt="Streak Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanuja1306&show_icons=true&locale=en&theme=tokyo-night" alt="Tanuja Kumari's GitHub stats" width="48%" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuja1306&layout=compact&theme=tokyo-night" alt="Top Languages" width="48%" height="195px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuja1306&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanuja1306&hide_title=true&hide_border=true&theme=tokyonight" alt="WakaTime Stats" width="400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanuja1306&theme=tokyo-night&hide_border=true" alt="Tanuja Kumari's contribution graph" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&theme=tokyo-night&hide_border=true" alt="Tanuja Kumari's streak" width="48%" />
 </p>
