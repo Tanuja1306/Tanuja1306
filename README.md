@@ -37,7 +37,7 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="computer vision" width="40" height="40"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanuja1306&show_icons=true&locale=en?v=2" alt="Tanuja Kumari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanuja1306&show_icons=true&locale=en" alt="Tanuja Kumari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&v=2" alt="Tanuja Kumari" /></p>
 
