@@ -1,6 +1,6 @@
 <h1 align="center">Hey..👋, I'm Tanuja Kumari</h1>
 <h3 align="center">A developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxzbWdvY2h6N3VzeW04b3BjdW50dnlhcGtkeTdlcXZhNjd5dmMybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"> 
+<img align="right" alt="Coding" width="400" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxzbWdvY2h6N3VzeW04b3BjdW50dnlhcGtkeTdlcXZhNjd5dmMybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN0cnY2bjN0emxkZDZna3VlMmc5MWg4dWFuMGx0OXVuMTYxem0wYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)"> 
 
 - 🌱 I’m currently learning **Springboot**
 
