@@ -1,5 +1,6 @@
 <h1 align="center">Hey..👋, I'm Tanuja Kumari</h1>
 <h3 align="center">A developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BnZXRlcnl6bTUwN2xidGJub2wybzR6NDZtdnZydHlqMTd6bWFxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif"> 
 
 - 🌱 I’m currently learning **Spring Boot**
@@ -44,5 +45,15 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanuja1306&theme=tokyo-night&hide_border=true" alt="Tanuja Kumari's contribution graph" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&theme=tokyo-night&hide_border=true" alt="Tanuja Kumari's streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&theme=solarized&hide_border=true" alt="Tanuja Kumari's streak" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanuja1306&theme=solarized" alt="GitHub 3D Graph" />
+</p>
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized&font=verysmall" alt="Random Quote" />
+</p>
+
