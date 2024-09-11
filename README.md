@@ -37,15 +37,14 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="computer vision" width="40" height="40"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanuja1306&show_icons=true&locale=en" alt="Tanuja Kumari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&v=2" alt="Tanuja Kumari" /></p>
-
-<h3 align="left">Top Languages:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuja1306&layout=compact&theme=dark" alt="Top Languages" /></p>
+<h3 align="left">My GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanuja1306&show_icons=true&theme=tokyonight" alt="Tanuja Kumari" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&theme=tokyonight" alt="Tanuja Kumari" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuja1306&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 <h3 align="left">Contribution Graph:</h3>
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tanuja1306&theme=react-dark" alt="Contribution Graph" /></p>
-
-<h3 align="left">Profile Views:</h3>
-<p>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=Tanuja1306" alt="Profile Views" /></p>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanuja1306&theme=tokyo-night" alt="Tanuja Kumari's contribution graph" />
+</p>
