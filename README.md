@@ -1,57 +1,48 @@
-# Hello, I'm Tanuja Kumari! 👋
+<h1 align="center">Hey..👋, I'm Tanuja Kumari</h1>
+<h3 align="center">A developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-![Profile Banner](https://example.com/banner.jpg) <!-- Replace with your own image URL -->
+- 🌱 I’m currently learning **React.js, Node.js**
 
-## 👨‍💻 About Me
-I’m a passionate developer and R&D Engineer based in Noida, India. I hold a B.Tech in Computer Engineering from Delhi Technological University. With experience in leading tech companies like Ansys, Apple, and Qualcomm, I’m always eager to take on new challenges.
+- 💬 Ask me about **DSA, DBMS**
 
-### 🌱 Currently Learning
-- **React.js**
-- **Node.js**
+- 📫 How to reach me **tanujasangwan@gmail.com**
 
-### 💬 Ask Me About
-- **Data Structures & Algorithms (DSA)**
-- **Database Management Systems (DBMS)**
+- ⚡ Fun fact **I love solving complex problems and developing innovative solutions**
 
-### 📫 How to Reach Me
-- Email: [tanujasangwan@gmail.com](mailto:tanujasangwan@gmail.com)
-- LinkedIn: [Tanuja Kumari](https://www.linkedin.com/in/tanujakumari)
-- GitHub: [Tanuja's GitHub](https://github.com/Tanuja)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/tanujakumari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanuja Kumari" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tanuja_kumari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanuja_kumari" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@YourChannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Your Channel" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/YourLeetCodeProfile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="YourLeetCodeProfile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/YourGeeksForGeeksProfile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="YourGeeksForGeeksProfile" height="30" width="40" /></a>
+</p>
 
-### ⚡ Fun Fact
-I teach DSA daily!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+</p>
 
-## 🛠 Languages and Tools
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&locale=en" alt="Tanuja Kumari's GitHub Stats"/>
+</p>
 
-## 📈 GitHub Stats
-
-![Tanuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanuja&show_icons=true&hide_title=true&count_private=true&hide=prs) <!-- Replace with your GitHub stats URL -->
-
-### 🔥 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!-- Add your recent GitHub activity here -->
-<!--END_SECTION:activity-->
-
-## 🏆 Achievements
-- **Ansys Legends at Work Award, 2023**: Recognized for outstanding contributions to tool enhancement and effectively managing high-priority customer escalations.
-- **Dr. Hari Johri Merit Scholarship, 2022**: Achieved Female Department Rank 1 at DTU, demonstrating exceptional academic performance.
-- **Microsoft Engage Program Mentee, 2021**: Selected as a top mentee nationwide in India; designed a web platform that significantly improved interactions between teachers and students.
-
-## 🚀 Projects
-### [Text-Crack](https://github.com/Tanuja/Text-Crack)
-- **Technologies**: CNN, SVM, KNN, PSO, Random Forest
-- Achieved 99.57% accuracy in digit classification.
-- Published in IEEE Xplore - ICCMC [2022](https://ieeexplore.ieee.org/document/xxxxxxx).
-
-### [Healthcare Management System (HMS)](https://github.com/Tanuja/HMS)
-- **Technologies**: Node.js, Express, MongoDB, Bootstrap
-- Developed a full-stack HMS with secure JWT-based authentication and dynamic UI components.
-
-Feel free to explore my repositories and connect with me!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername" alt="Tanuja Kumari's GitHub Streak"/>
+</p>
