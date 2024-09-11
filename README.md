@@ -45,6 +45,6 @@
 <h3 align="left">Contribution Graph:</h3>
 <p align="center">
   <a href="https://github.com/Tanuja1306">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Tanuja1306&bg_color=0D1117&color=ffffff&line=F9A828&point=6CC24A&hide_border=true&area=true" alt="Tanuja Kumari's Contribution Graph" width="100%" />
+    <img src="https://github-contribution-stats.vercel.app/api?username=Tanuja1306&count_private=true&theme=github_dark&hide=prs&custom_title=Contribution%20Graph" alt="Tanuja Kumari's Contribution Graph" width="100%" />
   </a>
 </p>
