@@ -3,11 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BnZXRlcnl6bTUwN2xidGJub2wybzR6NDZtdnZydHlqMTd6bWFxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif"> 
 
 - 🌱 I’m currently learning **Spring Boot**
-
 - 💬 Ask me about **DSA, Web Development, AI/ML**
-
 - 📫 How to reach me: **tanujasangwan@gmail.com**
-
 - ⚡ Fun fact: **I love solving complex problems and developing innovative solutions**
 
 <h3 align="left">Connect with me:</h3>
@@ -37,14 +34,17 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="computer vision" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanuja1306&show_icons=true&theme=tokyonight" alt="Tanuja Kumari" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&theme=tokyonight" alt="Tanuja Kumari" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuja1306&layout=compact&theme=tokyonight" alt="Top Languages" />
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <a href="https://github.com/Tanuja1306">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanuja1306&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=F9A828&title_color=6CC24A" alt="Tanuja Kumari's GitHub Stats" width="48%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuja1306&hide_border=true&background=0D1117&stroke=ffffff&ring=6CC24A&fire=F9A828&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Tanuja Kumari's Streak Stats" width="48%" />
+  </a>
 </p>
 
 <h3 align="left">Contribution Graph:</h3>
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanuja1306&theme=tokyo-night" alt="Tanuja Kumari's contribution graph" />
+<p align="center">
+  <a href="https://github.com/Tanuja1306">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Tanuja1306&bg_color=0D1117&color=ffffff&line=F9A828&point=6CC24A&hide_border=true&area=true" alt="Tanuja Kumari's Contribution Graph" width="100%" />
+  </a>
 </p>
